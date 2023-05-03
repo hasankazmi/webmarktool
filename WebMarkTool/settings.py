@@ -27,7 +27,7 @@ SECRET_KEY = 'g8&j$^+qm0_lk0-@66zx&%_ltfuz-%6r5h^!f@=3azutzhb^t7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['webmarktool.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['webmarketing.herokuapp.com','127.0.0.1']
 
 
 # Application definition
